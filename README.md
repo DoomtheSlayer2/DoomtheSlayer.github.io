@@ -1,2 +1,2 @@
-# DoomtheSlayer.github.io
-Runic Ascent climb the tower
+# Runic Ascent.github.io
+Climb the tower
