@@ -2,34 +2,34 @@
 
 body {
   background-color: black;   /* sets background color to black */
-  color: white;             /* sets text (foreground) color to white */
-  width: 960px;            /* limits the total width to 1024px */
-  margin: 0 auto;           /* centers the body within the browser window */
+  color: white;              /* sets text (foreground) color to white */
+  width: 960px;              /* limits the total width to 960px */
+  margin: 0 auto;            /* centers the body within the browser window */
 }
 
-
 .sedgwick-ave-display-regular {
-  font-family: "Sedgwick Ave Display", serif;
+  font-family: "Merienda", serif;
   font-weight: 400;
   font-style: normal;
 }
 
 .title {
-  font-family: "Sedgwick Ave Display", serif;
+  font-family: "Merienda", serif;
   font-weight: 400;
   font-style: normal;
   font-size: 1000%;
   text-align: center;
   padding-top: 50px;
-  margin: 0;     
-  line-height: 1;    
+  margin: 0;
+  line-height: 1;
 }
 
 .subtitle {
+  font-family: "Merienda", serif;
   font-size: 300%;
   text-align: center;
-  margin: 0;         
-  line-height: 1;    
+  margin: 0;
+  line-height: 1;
   padding-bottom: 25px;
 }
 
@@ -45,4 +45,4 @@ body {
   object-fit: contain;
   object-position: 50% 50%;
   display: block;
-} 
+}
